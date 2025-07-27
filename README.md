@@ -5,15 +5,12 @@ A modern and responsive **React-based portfolio website** built to showcase my s
 ## 🧰 Tech Stack
 
 - ⚛️ React.js
-- 💅 CSS3 / TailwindCSS / Bootstrap *(depending on what you used)*
-- 📦 Vite or Create React App *(depending on setup)*
-- 🌐 Deployed on: [Netlify](#) / [Vercel](#) *(if applicable)*
+- 🌐 Deployed on: Netlify
 
 ## 🖼️ Features
 
 - 👤 Personal bio section
 - 🛠️ Projects showcase with images and links
 - 📬 Contact form
-- 📱 Fully responsive (mobile-first design)
-- 🌓 Optional dark/light theme toggle *(if included)*
+- 📱 Fully responsive 
 
